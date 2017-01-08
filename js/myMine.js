@@ -153,8 +153,17 @@ $('#selectedSq').bind('click', function () {
     {
         holdUntilNextClick = true
         console.log('has class');
+    } if (holdUntilNextClick = true){
+        $('.highlight').removeClass('highlight')
+        //$(this).addClass('highlight')
+    }if (holdUntilNextClick = true){
+        $(isPickActive=false)
+        $(isAxeActive=false)
+        $(isShovelActive=false)
+
     }
 })
+
 
 
 function setupEventForGrid(){

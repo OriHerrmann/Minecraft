@@ -79,7 +79,7 @@ body{
     position: absolute;
     background: skyblue;
     width: 65px;
-    height:280px;
+    height:253px;
     display: inline-block;
     z-index: 0;
 }
@@ -87,7 +87,7 @@ body{
 #axe {
     background-image: url("./images/axe.png");
     background-size: cover;
-    margin-top: 30px;
+
 
 
 }
